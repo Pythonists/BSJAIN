@@ -1,0 +1,6 @@
+# My first in Python @Github.
+
+print "Lets see what can be done"
+
+for num in range (2,10):
+  print num
